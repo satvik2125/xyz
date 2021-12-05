@@ -9,6 +9,7 @@ export const data = [
     timestamp: "2021-08-29T16:50:33.000Z",
     link: "https://www.hindustantimes.com/entertainment/bollywood/akshay-kumar-s-bellbottom-screened-at-world-s-highest-mobile-theatre-in-ladakh-makes-my-heart-swell-with-pride-101630246753605-amp.html?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts",
     publisher: "Hindustan Times",
+    comment: "Hello",
   },
   {
     title:
@@ -20,6 +21,7 @@ export const data = [
     timestamp: "2021-09-01T13:15:34.000Z",
     link: "icc-cricket.com/match/32273?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts#scorecard",
     publisher: "ICC",
+    comment: " hello",
   },
   {
     title: "Vets in Pune perform successful hernia surgery on a dog in a first",
@@ -30,6 +32,7 @@ export const data = [
     timestamp: "2021-09-04T04:20:02.000Z",
     link: "icc-cricket.com/match/32273?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts#scorecard",
     publisher: "Times of India",
+    comment: " heyyy",
   },
   {
     title: "Expect to have real inclusive government in Afghanistan: US",
@@ -40,6 +43,7 @@ export const data = [
     timestamp: "2021-09-04T04:44:03.000Z",
     link: "https://www.hindustantimes.com/world-news/expect-to-have-real-inclusive-government-in-afghanistan-antony-blinken-101630721129848-amp.html?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts",
     publisher: "Hindustan Times",
+    comment: "heyyy ",
   },
   {
     title:
@@ -51,6 +55,7 @@ export const data = [
     timestamp: "2021-09-04T03:55:14.000Z",
     link: "https://olympics.com/tokyo-2020/paralympic-games/en/results/shooting/results-p4-mixed-50m-pistol-sh1-fnl-000100-.htm?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts",
     publisher: "Olympics",
+    comment: " heyyy",
   },
   {
     title:
@@ -62,6 +67,7 @@ export const data = [
     timestamp: "2021-09-04T03:55:14.000Z",
     link: "https://olympics.com/tokyo-2020/paralympic-games/en/results/badminton/results-men-s-singles-sl4-sfnl-000200-.htm?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts",
     publisher: "Olympics",
+    comment: "heyyy ",
   },
   {
     title:
@@ -73,6 +79,7 @@ export const data = [
     timestamp: "2021-09-04T03:55:14.000Z",
     link: "https://www.manutd.com/en/amp/news/detail/cristiano-ronaldo-to-wear-the-number-7-shirt-for-man-utd?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts",
     publisher: "Man Utd",
+    comment: " heyyy",
   },
 
   {
@@ -85,6 +92,7 @@ export const data = [
     timestamp: "2021-08-29T16:50:33.000Z",
     link: "https://www.hindustantimes.com/entertainment/bollywood/akshay-kumar-s-bellbottom-screened-at-world-s-highest-mobile-theatre-in-ladakh-makes-my-heart-swell-with-pride-101630246753605-amp.html?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts",
     publisher: "Hindustan Times",
+    comment: "heyyy ",
   },
   {
     title:
@@ -96,6 +104,7 @@ export const data = [
     timestamp: "2021-09-01T13:15:34.000Z",
     link: "icc-cricket.com/match/32273?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts#scorecard",
     publisher: "ICC",
+    comment: "heyyy ",
   },
   {
     title: "Vets in Pune perform successful hernia surgery on a dog in a first",
@@ -106,6 +115,7 @@ export const data = [
     timestamp: "2021-09-04T04:20:02.000Z",
     link: "icc-cricket.com/match/32273?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts#scorecard",
     publisher: "Times of India",
+    comment: "heyyy ",
   },
   {
     title: "Expect to have real inclusive government in Afghanistan: US",
@@ -116,6 +126,7 @@ export const data = [
     timestamp: "2021-09-04T04:44:03.000Z",
     link: "https://www.hindustantimes.com/world-news/expect-to-have-real-inclusive-government-in-afghanistan-antony-blinken-101630721129848-amp.html?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts",
     publisher: "Hindustan Times",
+    comment: "heyyy ",
   },
   {
     title:
@@ -127,6 +138,7 @@ export const data = [
     timestamp: "2021-09-04T03:55:14.000Z",
     link: "https://olympics.com/tokyo-2020/paralympic-games/en/results/shooting/results-p4-mixed-50m-pistol-sh1-fnl-000100-.htm?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts",
     publisher: "Olympics",
+    comment: "heyyy ",
   },
   {
     title:
@@ -138,6 +150,7 @@ export const data = [
     timestamp: "2021-09-04T03:55:14.000Z",
     link: "https://olympics.com/tokyo-2020/paralympic-games/en/results/badminton/results-men-s-singles-sl4-sfnl-000200-.htm?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts",
     publisher: "Olympics",
+    comment: "heyyy ",
   },
   {
     title:
@@ -149,5 +162,6 @@ export const data = [
     timestamp: "2021-09-04T03:55:14.000Z",
     link: "https://www.manutd.com/en/amp/news/detail/cristiano-ronaldo-to-wear-the-number-7-shirt-for-man-utd?utm_campaign=fullarticle&utm_medium=referral&utm_source=inshorts",
     publisher: "Man Utd",
+    comment: "heyyy ",
   },
 ];

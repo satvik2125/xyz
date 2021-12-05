@@ -29,6 +29,10 @@ const newsSchema = new mongoose.Schema({
     type: String,
     required: true,
   },
+  comment: {
+    tpye: String,
+    required: false,
+  },
 });
 
 const news = mongoose.model("news", newsSchema);
